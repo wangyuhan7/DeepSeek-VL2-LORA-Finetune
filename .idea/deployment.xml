@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="UPLImtOq@root@ssh-48a1660574e7c9d801d73001bc0b0c1d.faox0c2xkk2s@direct.virtaicloud.com:30022 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="UPLImtOq@root@ssh-48a1660574e7c9d801d73001bc0b0c1d.faox0c2xkk2s@direct.virtaicloud.com:30022 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
